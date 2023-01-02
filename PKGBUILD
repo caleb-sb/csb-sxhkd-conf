@@ -1,7 +1,7 @@
 # Maintainer: Caleb Bredekamp
 pkgname=csb-sxhkd-conf-git
 _pkgname=csb-sxhkd-conf
-pkgver=v0.0.1.r1.g03dfc44
+pkgver=v0.0.1.r0.gf8a91b0
 pkgrel=1
 _destname1="/etc/skel/.config/sxhkd/"
 pkgdesc="Caleb's sxhkd configuration"
